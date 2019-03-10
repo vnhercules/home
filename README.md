@@ -1,2 +1,2 @@
 # my_website
-My personal website. 
+This repository is for my personal website. 
